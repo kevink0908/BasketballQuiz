@@ -1,19 +1,21 @@
 <resources>
-    <string name="app_name">GeoQuiz</string>
-    <string name="question_australia">Canberra is the capital of Australia.</string>
-    <string name="question_oceans">The Pacific Ocean is larger than
-        the Atlantic Ocean.</string>
-    <string name="question_mideast">The Suez Canal connects the Red Sea
-        and the Indian Ocean.</string>
-    <string name="question_africa">The source of the Nile River is in Egypt.</string>
-    <string name="question_americas">The Amazon River is the longest river
-        in the Americas.</string>
-    <string name="question_asia">Lake Baikal is the world\'s oldest and deepest
-        freshwater lake.</string>
+    <string name="app_name">Basketball Quiz!</string>
+    <string name="question_travel">Taking more than two steps is a travel.</string>
+    <string name="question_free_throw">A free throw is worth one point.</string>
+    <string name="question_three_pointer">A three pointer is worth two points.</string>
+    <string name="question_double_dribble">You can dribble with both hands.</string>
+    <string name="question_carrying">You cannot touch the bottom of the basketball
+        while dribbling and continue to dribble.</string>
+    <string name="question_backcourt">On offense, you cannot go back to the other side
+        of the court once you cross the half court with the ball.</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
     <string name="prev_button">Prev</string>
     <string name="next_button">Next</string>
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect!</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
 </resources>
